@@ -1,0 +1,19 @@
+.nav_container {
+  padding: 1.5rem;
+  font-weight: 700;
+  font-size: 1.3rem;
+  position: sticky;
+  top: 0;
+}
+
+.nav_container a {
+  margin-right: 30px;
+  padding: 5px 10px;
+}
+
+.nav_container a:hover {
+  color: rgb(166, 133, 226);
+}
+.active {
+  border-bottom: 3px solid rgb(243, 141, 235);
+}
